@@ -1,2 +1,2 @@
 
-count a=200
+var a=200
